@@ -1,0 +1,1 @@
+    SELECT first_name, last_name, length(first_name) + length(last_name) FROM employees;

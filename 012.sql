@@ -1,0 +1,1 @@
+SELECT  substr(first_name, 1, 3) FROM employees;
