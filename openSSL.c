@@ -9,8 +9,6 @@
 */
 
 #include <openssl/aes.h>
-#include <openssl/evp.h>
-#include <openssl/err.h>
 
 #include <stdlib.h>
 #include <stdio.h>
